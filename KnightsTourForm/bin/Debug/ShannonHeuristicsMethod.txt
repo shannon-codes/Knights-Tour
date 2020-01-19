@@ -1,0 +1,2 @@
+Trial 1 : The knight was able to successfully touch 60 squares.
+
